@@ -1,0 +1,22 @@
+{
+  "name": "voltacoin",
+  "version": "0.0.2-beta",
+  "description": "Voltacoin API Wrapper",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VoltacoinSystems/node-sdk.git"
+  },
+  "author": "Voltacoin Financial Systems, Inc.",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/VoltacoinSystems/node-sdk/issues"
+  },
+  "homepage": "https://github.com/VoltacoinSystems/node-sdk#readme",
+  "dependencies": {
+    "axios": "^1.2.2"
+  }
+}
